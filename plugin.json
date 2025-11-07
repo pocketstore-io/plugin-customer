@@ -1,7 +1,6 @@
 {
   "vendor": "pocketstore-io",
   "name": "customer",
-  "version": "0.0.1",
   "type": "plugin",
   "prio": 100
 }

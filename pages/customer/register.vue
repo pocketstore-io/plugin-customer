@@ -95,7 +95,7 @@
 import { faLock } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 import { useRouter } from "vue-router";
-import { usePocketBase } from "~/util/pocketbase";
+import { usePocketBase } from "~/utils/pocketbase";
 
 const pb = usePocketBase();
 const router = useRouter();

@@ -5,7 +5,7 @@
 <script lang="ts" setup>
 import { onMounted } from "vue";
 import { useRouter } from "vue-router";
-import { usePocketBase } from "~/util/pocketbase";
+import { usePocketBase } from "~/utils/pocketbase";
 
 const router = useRouter();
 const pb = usePocketBase();

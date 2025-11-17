@@ -28,7 +28,7 @@
 </template>
 
 <script lang="ts" setup>
-import { usePocketBase } from "~/util/pocketbase";
+import { usePocketBase } from "~/utils/pocketbase";
 
 const identity = ref("");
 const password = ref("");
